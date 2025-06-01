@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Must Start with 'PRINCE-MDX~'",
       "required": true,
-      "value": ""
+      "value": "PRINCE-MDX~t95BZw6t1UOuTXCoXc1g"
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Prince Tech"
+      "value": "Hasaan"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "237677224245"
+      "value": "923136459570"
     },
     
    
